@@ -357,6 +357,10 @@
   background-color: #1f1f1f;
   padding: 60px 80px;
 }
+.footer__cover {
+  width: 100%;
+  position: relative;
+}
 
 .footer__columns {
   display: flex;
